@@ -4,7 +4,7 @@ Finding top ten longest Tamil words and top ten most occurring words present in 
 
 Here we have used the data from venmurasu novel.
 
-Navel starting from,
+Novel starting from,
 https://venmurasu.in/2014/01/01/%E0%AE%B5%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%AE%E0%AF%81%E0%AE%B0%E0%AE%9A%E0%AF%81-%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81/
 
 
